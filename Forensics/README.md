@@ -4,20 +4,20 @@
 
 ## Offline Tools
 
- - [binwalk](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) [[ℹ️]](https://github.com/ReFirmLabs/binwalk#readme)
- - [exiftool](https://github.com/matiassingers/awesome-readme) [[ℹ️]](https://en.wikipedia.org/wiki/ExifTool)
- - [foremost](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://www.kali.org/tools/foremost/)
- - [hexyl](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://github.com/sharkdp/hexyl#readme)
- - [jstego](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://github.com/kumarmah/JStego#readme)
- - [powershellstego](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://pcsxcetrasupport3.wordpress.com/2020/07/22/powershell-steganography/)
- - [stegano](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [stegdetect](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://stegdetect.apponic.com/#:~:text=Overview-,Stegdetect%20is%20an%20automated%20tool,-for%20detecting%20steganographic)
- - [steghide](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](http://steghide.sourceforge.net/index.php)
- - [stegsnow](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://www.kali.org/tools/stegsnow/)
- - [stegsolve](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://wiki.bi0s.in/steganography/stegsolve/)
- - [strings](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](http://www.linfo.org/strings.html)
- - [Volatility3](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://volatility3.readthedocs.io/en/latest/index.html)
- - [zsteg](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [[ℹ️]](https://wiki.bi0s.in/steganography/zsteg/)
+ - [binwalk](https://github.com/sky9262/myTool/tree/main/Forensics/binwalk) [[ℹ️]](https://github.com/ReFirmLabs/binwalk#readme)
+ - [exiftool](https://github.com/sky9262/myTool/tree/main/Forensics/exiftool) [[ℹ️]](https://en.wikipedia.org/wiki/ExifTool)
+ - [foremost](https://github.com/sky9262/myTool/tree/main/Forensics/foremost) [[ℹ️]](https://www.kali.org/tools/foremost/)
+ - [hexyl](https://github.com/sky9262/myTool/tree/main/Forensics/hexyl) [[ℹ️]](https://github.com/sharkdp/hexyl#readme)
+ - [jstego](https://github.com/sky9262/myTool/tree/main/Forensics/jstego) [[ℹ️]](https://github.com/kumarmah/JStego#readme)
+ - [powershellstego](https://github.com/sky9262/myTool/tree/main/Forensics/powershellstego) [[ℹ️]](https://pcsxcetrasupport3.wordpress.com/2020/07/22/powershell-steganography/)
+ - [stegano](https://github.com/sky9262/myTool/tree/main/Forensics/stegano)
+ - [stegdetect](https://github.com/sky9262/myTool/tree/main/Forensics/stegdetect) [[ℹ️]](https://stegdetect.apponic.com/#:~:text=Overview-,Stegdetect%20is%20an%20automated%20tool,-for%20detecting%20steganographic)
+ - [steghide](https://github.com/sky9262/myTool/tree/main/Forensics/steghide) [[ℹ️]](http://steghide.sourceforge.net/index.php)
+ - [stegsnow](https://github.com/sky9262/myTool/tree/main/Forensics/stegsnow) [[ℹ️]](https://www.kali.org/tools/stegsnow/)
+ - [stegsolve](https://github.com/sky9262/myTool/tree/main/Forensics/stegsolve) [[ℹ️]](https://wiki.bi0s.in/steganography/stegsolve/)
+ - [strings](https://github.com/sky9262/myTool/tree/main/Forensics/strings) [[ℹ️]](http://www.linfo.org/strings.html)
+ - [Volatility3](https://github.com/sky9262/myTool/tree/main/Forensics/Volatility3) [[ℹ️]](https://volatility3.readthedocs.io/en/latest/index.html)
+ - [zsteg](https://github.com/sky9262/myTool/tree/main/Forensics/zsteg) [[ℹ️]](https://wiki.bi0s.in/steganography/zsteg/)
 
 ## Online Tools
 
@@ -36,7 +36,7 @@
 Install CTFtool with bash
 - Clone this repository
 ```bash
-  git clone <url>
+  git clone https://github.com/sky9262/myTool
   cd CTFtool/Forensics
 ```
 - To install all in single command
