@@ -1,0 +1,3 @@
+strings -n 10 filename.jpg
+
+srch_strings -a dds1-alpine.flag.img | grep picoCTF

