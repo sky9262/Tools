@@ -36,7 +36,7 @@
 Install CTFtool with bash
 - Clone this repository
 ```bash
-  git clone https://github.com/sky9262/myTool
+  git clone https://github.com/sky9262/Tools
   cd CTFtool/Forensics
 ```
 - To install all in single command
